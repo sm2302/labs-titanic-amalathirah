@@ -1,0 +1,6 @@
+ggsave("pred_prob_surv.png", width = 8, height = 4)
+library(ggplot2)
+install.packages(ggplot2)
+install.packages("ggplot2")
+install.packages("ggplot2")
+ggsave("pred_prob_surv.png", width = 8, height = 4)
