@@ -164,3 +164,4 @@ ggplot(titanic, aes(Age, Survived)) +
        col = "Passenger class")
 
 ggsave("pred_prob_surv.png", width = 8, height = 4)
+
