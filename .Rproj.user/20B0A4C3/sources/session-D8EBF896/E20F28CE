@@ -1,0 +1,26 @@
+{
+    "id": "E20F28CE",
+    "path": "~/GitHub/labs-titanic-amalathirah/titanic.R",
+    "project_path": "titanic.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1662112210495.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "167,0",
+        "scrollLine": "150"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1662101942,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1662101942,
+    "read_only": false,
+    "read_only_alternatives": []
+}
